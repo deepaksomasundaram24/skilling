@@ -1,0 +1,16 @@
+{
+    "1": {
+        "customer_name": "Deepak",
+        "items": {
+            "50": {
+                "52": {
+                    "name": "Paneer",
+                    "category": "FMCG",
+                    "price": 200,
+                    "stock_quantity": 500
+                }
+            }
+        },
+        "price": 10000
+    }
+}
