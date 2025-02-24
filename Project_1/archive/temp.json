@@ -1,0 +1,24 @@
+{
+    "1000": {
+        "title": "title of the movie",
+        "genre": "Action",
+        "rating": 10,
+        "release_year": 2014,
+        "cast": [
+            "Katrina Kaif",
+            "Julius Marathadi",
+            "Romulus Den"
+        ]
+    },
+    "1001": {
+        "title": "dumsharades damaka",
+        "genre": "Romance",
+        "rating": 9,
+        "release_year": 2017,
+        "cast": [
+            "Badrinath Wife",
+            "Marcus Aurelius",
+            "Ram Paul"
+        ]
+    }
+}

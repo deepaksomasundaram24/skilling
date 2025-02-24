@@ -1,0 +1,35 @@
+{
+    "1001": {
+        "title": "Dhamaka Mama",
+        "genre": "Action",
+        "rating": 9,
+        "release_year": 2020,
+        "cast": [
+            "Yami Gautam",
+            "Gregory Gorgeous",
+            "Apple Pit"
+        ]
+    },
+    "1002": {
+        "title": "Dhamaka Mami",
+        "genre": "Romance",
+        "rating": 10,
+        "release_year": 2025,
+        "cast": [
+            "Atulya Ravi",
+            "Gregory Amalgamation",
+            "Brian Pit"
+        ]
+    },
+    "1003": {
+        "title": "Maragada Raja",
+        "genre": "Thriller",
+        "rating": 7,
+        "release_year": 2024,
+        "cast": [
+            "Pooja Hegde",
+            "Aaravi Julan",
+            "Vegita Bostnalina"
+        ]
+    }
+}
